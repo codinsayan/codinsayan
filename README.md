@@ -3,6 +3,7 @@
 - Currently Working on RAG Systems and RAG-Ops
 - Currently learning Backend Development and AI/ML
 - Crazy about Innovation and Problem Solving
+- Contact Me: sayanghosh1427@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayanghosh1123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SayanGhosh12624) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayanghosh1427@gmail.com) 
